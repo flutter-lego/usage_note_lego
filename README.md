@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/usage_note_lego.svg)](https://pub.dartlang.org/packages/usage_note_lego)
 
 # usage_note_lego
-description here
+note template for lego project.
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -15,6 +15,3 @@ lego create
 ```bash
 lego add usage_note_lego
 ```
-
-## Usage
-Usage here
